@@ -1,0 +1,53 @@
+ # Fichiers Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Environnements virtuels
+venv
+.env
+.venv
+env/
+venv/
+ENV/
+
+# PyCharm
+.idea
+
+# VS Code
+.vscode
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de test et documentation
+tests/
+docs/
+
+# Fichiers de configuration git
+.git
+.gitignore
+
+# Autres
+*.swp
+*.bak
+*.tmp
+*.orig
+.pytest_cache
